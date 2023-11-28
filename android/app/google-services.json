@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323839435166",
+    "project_id": "draw-to-app-9zzzv5",
+    "storage_bucket": "draw-to-app-9zzzv5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323839435166:android:097876ac6ffbed3ae1768f",
+        "android_client_info": {
+          "package_name": "com.mycompany.drawtoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1SXd7txRoxDS4vWD1_IkgdBsGavPBUQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

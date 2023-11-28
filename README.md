@@ -1,2 +1,7 @@
-# Draw-To-App
-Turn any sketch into working HTML, JS &amp; CSS with this Flutter app.
+# Draw to App
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
